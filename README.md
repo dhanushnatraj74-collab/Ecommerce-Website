@@ -40,7 +40,7 @@ This project demonstrates how machine learning and real dataset analysis can rep
 
 ---
 
-## 🗂 Dataset Information
+## Dataset Information
 
  Property   Details 
 
